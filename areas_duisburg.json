@@ -1,14 +1,14 @@
 {
-    "AL": {
-      "name": "Alabama",
-      "capital": "Montgomery",
-      "lat": "32.361538",
-      "long": "-86.279118"
+    "KA": {
+      "name": "Kasslerfeld",
+      "street": "Am Blumenkampshof 10",
+      "lat": "51.440865",
+      "long": "6.731757"
     },
-    "AK": {
-      "name": "Alaska",
-      "capital": "Juneau",
-      "lat": "58.301935",
-      "long": "-134.419740"
+    "NE": {
+      "name": "Neudorf",
+      "street": "Gneisenaustraße 251",
+      "lat": "51.422672",
+      "long": "6.789436"
     }
   }
